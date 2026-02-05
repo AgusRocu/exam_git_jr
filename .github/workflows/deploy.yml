@@ -20,5 +20,5 @@ jobs:
           username: ${{ secrets.USER }}
           key: ${{ secrets.KEY }}
           script: |
-            cd /var/www/web-ec2
+            cd /var/www/html/exam_git_jr
             git pull origin main
