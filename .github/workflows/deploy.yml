@@ -22,4 +22,3 @@ jobs:
           script: |
             cd /var/www/html/exam_git_jr
             git pull origin main
-
